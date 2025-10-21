@@ -1,5 +1,5 @@
 # PowerShellAsAService
-Easy way to make our PowerShell script run as a service.
+Easy way to make our PowerShell script run as a service. (GO TO THE WIKI TO GET STARTED!)
 
 Over the recent years there have been some pretty impressive projects, like POSHGUI and Pode/Pode.Web that allows you to run applications and websites built on top of PowerShell.
 The latter is the reason that led a collegue and I to sit back and find a better way to run PowerShell as a service. This question has been asked a lot, but the answer always points to 
